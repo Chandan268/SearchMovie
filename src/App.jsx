@@ -34,7 +34,7 @@ const App = () => {
     <div
       style={{ padding: "20px", fontFamily: "Arial", alignContent: "center" }}
     >
-      <h2>Movie Search</h2>
+      <h2>Search any movie here</h2>
       <input
         type="text"
         value={search}
